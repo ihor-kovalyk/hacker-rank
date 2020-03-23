@@ -40,6 +40,7 @@ public class Solution {
         System.out.println(sum(A, B));
         System.out.println(compareStrings(A, B));
         System.out.println(concatString(A, B));
+        sc.close();
 
     }
     public static int sum(String a, String b){
